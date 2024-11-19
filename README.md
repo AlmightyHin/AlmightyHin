@@ -1,12 +1,10 @@
-# 👾 Welcome, Curious Wanderer  
+# 🌱 Forever Learning  
 
-![Animated Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
-
-I build things, break things, and sometimes fix them.  
-Take a look around, or don’t. The choice is yours.  
+Hi, I’m [Your Name](https://github.com/yourusername).  
+Every day, I learn something new—because curiosity never sleeps.  
 
 ---
 
-![Code Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)  
+![Learning Animation](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)  
 
-
+> *"Break. Learn. Build. Repeat."*  
